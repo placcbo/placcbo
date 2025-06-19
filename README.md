@@ -35,8 +35,7 @@ Candidly is all about simplicity and speed — because job seekers deserve tools
 
 ## 📫 Let's Connect!
 - [LinkedIn] (https://www.linkedin.com/in/kevin-ndirangu-35338018b/)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio Website](https://yourportfolio.com)
+- [Portfolio Website](kevinndirangu.vercel.app)
 
 ---
 
